@@ -1,0 +1,147 @@
+{
+  "total_queries": 20,
+  "passed_queries": 20,
+  "success_rate_pct": 100.0,
+  "details": [
+    {
+      "id": 1,
+      "query": "How do I create a glass material in 3D?",
+      "fts_matches_count": 3,
+      "top_fts_title": "Glass Layer",
+      "passed": true
+    },
+    {
+      "id": 2,
+      "query": "Where is the Home button located in the UI?",
+      "fts_matches_count": 3,
+      "top_fts_title": "Home",
+      "passed": true
+    },
+    {
+      "id": 3,
+      "query": "How do I add interactive mouse hover state transitions?",
+      "fts_matches_count": 3,
+      "top_fts_title": "Mouse Hover Event",
+      "passed": true
+    },
+    {
+      "id": 4,
+      "query": "What is Hana mode and how do I design 2D UI components?",
+      "fts_matches_count": 3,
+      "top_fts_title": "Sections in Hana",
+      "passed": true
+    },
+    {
+      "id": 5,
+      "query": "How do I set up scroll driven 3D camera animations?",
+      "fts_matches_count": 3,
+      "top_fts_title": "Play Settings",
+      "passed": true
+    },
+    {
+      "id": 6,
+      "query": "How do physics rigid bodies and collisions work in Spline?",
+      "fts_matches_count": 3,
+      "top_fts_title": "Physics",
+      "passed": true
+    },
+    {
+      "id": 7,
+      "query": "How do I use variables and conditional actions?",
+      "fts_matches_count": 3,
+      "top_fts_title": "Conditional Action",
+      "passed": true
+    },
+    {
+      "id": 8,
+      "query": "How do I add directional lighting and HDRI environments?",
+      "fts_matches_count": 3,
+      "top_fts_title": "Environment & HDRi",
+      "passed": true
+    },
+    {
+      "id": 9,
+      "query": "How do I configure a particle emitter system?",
+      "fts_matches_count": 3,
+      "top_fts_title": "Particles Control Action",
+      "passed": true
+    },
+    {
+      "id": 10,
+      "query": "How do I export a scene as spline-viewer web component?",
+      "fts_matches_count": 3,
+      "top_fts_title": "FAQ",
+      "passed": true
+    },
+    {
+      "id": 11,
+      "query": "How do I integrate Spline with React using React-Spline?",
+      "fts_matches_count": 3,
+      "top_fts_title": "Code API for Web",
+      "passed": true
+    },
+    {
+      "id": 12,
+      "query": "How do I create smooth camera state transitions?",
+      "fts_matches_count": 3,
+      "top_fts_title": "Depth Layer / 3D Gradient",
+      "passed": true
+    },
+    {
+      "id": 13,
+      "query": "How do I animate an object along a vector path in Hana?",
+      "fts_matches_count": 3,
+      "top_fts_title": "3D Paths",
+      "passed": true
+    },
+    {
+      "id": 14,
+      "query": "How do I dynamic extrude 3D text and typography?",
+      "fts_matches_count": 3,
+      "top_fts_title": "AI Text OpenAI API",
+      "passed": true
+    },
+    {
+      "id": 15,
+      "query": "How do I build an interactive switch with progressive blur in Hana?",
+      "fts_matches_count": 3,
+      "top_fts_title": "Create an Interactive Switch with Progressive Blur and Gradients",
+      "passed": true
+    },
+    {
+      "id": 16,
+      "query": "How do I import glTF models and decimate polygon count?",
+      "fts_matches_count": 3,
+      "top_fts_title": "CAD to Spline: Optimization Best Practices",
+      "passed": true
+    },
+    {
+      "id": 17,
+      "query": "How do I generate 3D assets and textures with Spline AI?",
+      "fts_matches_count": 3,
+      "top_fts_title": "AI 3D Generation",
+      "passed": true
+    },
+    {
+      "id": 18,
+      "query": "How do I connect 3D scenes to live real-time REST APIs?",
+      "fts_matches_count": 3,
+      "top_fts_title": "Real-time API",
+      "passed": true
+    },
+    {
+      "id": 19,
+      "query": "How do I setup responsive auto layout constraints in Hana?",
+      "fts_matches_count": 3,
+      "top_fts_title": "Auto Layout & Constraints",
+      "passed": true
+    },
+    {
+      "id": 20,
+      "query": "How do I add spatial 3D audio triggers?",
+      "fts_matches_count": 3,
+      "top_fts_title": "AI Voice Assistant API",
+      "passed": true
+    }
+  ]
+}
