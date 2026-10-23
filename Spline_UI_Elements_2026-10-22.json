@@ -1,0 +1,1172 @@
+{
+  "metadata": {
+    "created_date": "2026-10-22",
+    "source": "Spline docs via Firecrawl",
+    "count": 87,
+    "note": "Only source-supported access paths and shortcuts. Conditional panels vary by selection."
+  },
+  "elements": [
+    {
+      "mode": "Dashboard",
+      "location": "Desktop tab bar",
+      "element_name": "Home",
+      "how_to_access": "Click home icon at far left of tab bar",
+      "what_it_does": "Return to dashboard/files",
+      "related_tools_or_options": [
+        "New tab (+)",
+        "open file tabs"
+      ],
+      "keyboard_shortcut": null,
+      "notes": "Desktop only; web uses browser tabs",
+      "source_url": "https://docs.spline.design/basics/understanding-splines-ui"
+    },
+    {
+      "mode": "Dashboard",
+      "location": "Left sidebar",
+      "element_name": "Home",
+      "how_to_access": "Dashboard > Home",
+      "what_it_does": "Workspace home",
+      "related_tools_or_options": [],
+      "keyboard_shortcut": null,
+      "notes": "",
+      "source_url": "https://docs.spline.design/basics/understanding-splines-ui"
+    },
+    {
+      "mode": "Dashboard",
+      "location": "Left sidebar",
+      "element_name": "My files",
+      "how_to_access": "Dashboard > My files",
+      "what_it_does": "Files owned by the workspace",
+      "related_tools_or_options": [],
+      "keyboard_shortcut": null,
+      "notes": "",
+      "source_url": "https://docs.spline.design/basics/understanding-splines-ui"
+    },
+    {
+      "mode": "Dashboard",
+      "location": "Left sidebar",
+      "element_name": "Templates",
+      "how_to_access": "Dashboard > Templates",
+      "what_it_does": "Starter scenes and files",
+      "related_tools_or_options": [],
+      "keyboard_shortcut": null,
+      "notes": "",
+      "source_url": "https://docs.spline.design/basics/understanding-splines-ui"
+    },
+    {
+      "mode": "Dashboard",
+      "location": "Left sidebar",
+      "element_name": "Community",
+      "how_to_access": "Dashboard > Community",
+      "what_it_does": "Browse community work",
+      "related_tools_or_options": [],
+      "keyboard_shortcut": null,
+      "notes": "",
+      "source_url": "https://docs.spline.design/basics/understanding-splines-ui"
+    },
+    {
+      "mode": "Dashboard",
+      "location": "Left sidebar",
+      "element_name": "Academy",
+      "how_to_access": "Dashboard > Academy",
+      "what_it_does": "Tutorials and learning",
+      "related_tools_or_options": [],
+      "keyboard_shortcut": null,
+      "notes": "",
+      "source_url": "https://docs.spline.design/basics/understanding-splines-ui"
+    },
+    {
+      "mode": "Dashboard",
+      "location": "Workspace header",
+      "element_name": "Workspace selector",
+      "how_to_access": "Click workspace name",
+      "what_it_does": "Switch workspaces",
+      "related_tools_or_options": [],
+      "keyboard_shortcut": null,
+      "notes": "",
+      "source_url": "https://docs.spline.design/basics/understanding-splines-ui"
+    },
+    {
+      "mode": "Dashboard",
+      "location": "File view",
+      "element_name": "Shared with me",
+      "how_to_access": "Dashboard > file view > Shared with me",
+      "what_it_does": "Find shared files",
+      "related_tools_or_options": [],
+      "keyboard_shortcut": null,
+      "notes": "",
+      "source_url": "https://docs.spline.design/basics/understanding-splines-ui"
+    },
+    {
+      "mode": "Dashboard",
+      "location": "File view",
+      "element_name": "+ Create",
+      "how_to_access": "Dashboard > + Create",
+      "what_it_does": "Create a new Spline 3D or Hana file",
+      "related_tools_or_options": [
+        "Hana – 2D Design",
+        "3D scene"
+      ],
+      "keyboard_shortcut": null,
+      "notes": "",
+      "source_url": "https://docs.spline.design/hana-a-canvas-for-interactivity/basics/designing-in-hana"
+    },
+    {
+      "mode": "Dashboard",
+      "location": "Project list",
+      "element_name": "Projects +",
+      "how_to_access": "Dashboard > Projects > +",
+      "what_it_does": "Create shared project/folder",
+      "related_tools_or_options": [],
+      "keyboard_shortcut": null,
+      "notes": "",
+      "source_url": "https://docs.spline.design/basics/understanding-splines-ui"
+    },
+    {
+      "mode": "3D Edit",
+      "location": "Left sidebar tab",
+      "element_name": "Agent",
+      "how_to_access": "3D editor > left sidebar > Agent",
+      "what_it_does": "AI assistant, edits scene through native actions",
+      "related_tools_or_options": [],
+      "keyboard_shortcut": null,
+      "notes": "",
+      "source_url": "https://docs.spline.design/basics/understanding-splines-ui"
+    },
+    {
+      "mode": "3D Edit",
+      "location": "Left sidebar tab",
+      "element_name": "Objects",
+      "how_to_access": "3D editor > left sidebar > Objects",
+      "what_it_does": "Scenes list, object outliner, nesting, search",
+      "related_tools_or_options": [],
+      "keyboard_shortcut": null,
+      "notes": "",
+      "source_url": "https://docs.spline.design/basics/understanding-splines-ui"
+    },
+    {
+      "mode": "3D Edit",
+      "location": "Left sidebar tab",
+      "element_name": "Assets",
+      "how_to_access": "3D editor > left sidebar > Assets",
+      "what_it_does": "Asset browser and team libraries",
+      "related_tools_or_options": [],
+      "keyboard_shortcut": null,
+      "notes": "",
+      "source_url": "https://docs.spline.design/basics/understanding-splines-ui"
+    },
+    {
+      "mode": "3D Edit",
+      "location": "Objects sidebar",
+      "element_name": "Scenes",
+      "how_to_access": "Objects tab > Scenes list",
+      "what_it_does": "Switch scenes within the file",
+      "related_tools_or_options": [],
+      "keyboard_shortcut": null,
+      "notes": "",
+      "source_url": "https://docs.spline.design/designing-in-3-d/scenes/multi-scenes"
+    },
+    {
+      "mode": "3D Edit",
+      "location": "Objects sidebar",
+      "element_name": "Outliner",
+      "how_to_access": "Objects tab > scene tree",
+      "what_it_does": "Select, nest, search, group objects",
+      "related_tools_or_options": [],
+      "keyboard_shortcut": null,
+      "notes": "",
+      "source_url": "https://docs.spline.design/basics/understanding-splines-ui"
+    },
+    {
+      "mode": "3D Preview",
+      "location": "Top stage tabs",
+      "element_name": "Preview",
+      "how_to_access": "Top of 3D editor > Preview",
+      "what_it_does": "Run the scene as a visitor sees it, HTML overlay and interactions",
+      "related_tools_or_options": [],
+      "keyboard_shortcut": null,
+      "notes": "",
+      "source_url": "https://docs.spline.design/interaction-states-events-and-actions/code-tab"
+    },
+    {
+      "mode": "3D Edit",
+      "location": "Top stage tabs",
+      "element_name": "Edit",
+      "how_to_access": "Top of 3D editor > Edit",
+      "what_it_does": "Editable 3D viewport with no play interactions",
+      "related_tools_or_options": [],
+      "keyboard_shortcut": null,
+      "notes": "",
+      "source_url": "https://docs.spline.design/interaction-states-events-and-actions/code-tab"
+    },
+    {
+      "mode": "3D Code",
+      "location": "Top stage tabs",
+      "element_name": "Code",
+      "how_to_access": "Top of 3D editor > Code",
+      "what_it_does": "Edit the per-file HTML/CSS/JS document",
+      "related_tools_or_options": [],
+      "keyboard_shortcut": null,
+      "notes": "",
+      "source_url": "https://docs.spline.design/interaction-states-events-and-actions/code-tab"
+    },
+    {
+      "mode": "3D Preview",
+      "location": "Near stage tabs",
+      "element_name": "Restart",
+      "how_to_access": "Preview > restart chip",
+      "what_it_does": "Restart running scene",
+      "related_tools_or_options": [],
+      "keyboard_shortcut": null,
+      "notes": "",
+      "source_url": "https://docs.spline.design/basics/understanding-splines-ui"
+    },
+    {
+      "mode": "3D Preview",
+      "location": "Near stage tabs",
+      "element_name": "Full-screen",
+      "how_to_access": "Preview > full-screen chip",
+      "what_it_does": "Play full screen",
+      "related_tools_or_options": [],
+      "keyboard_shortcut": null,
+      "notes": "",
+      "source_url": "https://docs.spline.design/basics/understanding-splines-ui"
+    },
+    {
+      "mode": "3D Edit",
+      "location": "Tool dock",
+      "element_name": "+ Add",
+      "how_to_access": "3D Edit > tool dock > +",
+      "what_it_does": "Open complete list of addable objects",
+      "related_tools_or_options": [
+        "Primitives",
+        "lights",
+        "camera",
+        "text",
+        "path"
+      ],
+      "keyboard_shortcut": null,
+      "notes": "",
+      "source_url": "https://docs.spline.design/basics/understanding-splines-ui"
+    },
+    {
+      "mode": "3D Edit",
+      "location": "Tool dock",
+      "element_name": "Transform",
+      "how_to_access": "3D Edit > tool dock > arrow",
+      "what_it_does": "Move, rotate, scale selected objects",
+      "related_tools_or_options": [],
+      "keyboard_shortcut": null,
+      "notes": "",
+      "source_url": "https://docs.spline.design/basics/understanding-splines-ui"
+    },
+    {
+      "mode": "3D Edit",
+      "location": "Tool dock",
+      "element_name": "Rectangle",
+      "how_to_access": "Press R or use add tools",
+      "what_it_does": "Create 2D rectangle in 3D world",
+      "related_tools_or_options": [],
+      "keyboard_shortcut": "R",
+      "notes": "",
+      "source_url": "https://docs.spline.design/basics/keyboard-shortcuts"
+    },
+    {
+      "mode": "3D Edit",
+      "location": "Tool dock",
+      "element_name": "Ellipse",
+      "how_to_access": "Press O or use add tools",
+      "what_it_does": "Create ellipse",
+      "related_tools_or_options": [],
+      "keyboard_shortcut": "O",
+      "notes": "",
+      "source_url": "https://docs.spline.design/basics/keyboard-shortcuts"
+    },
+    {
+      "mode": "3D Edit",
+      "location": "Tool dock",
+      "element_name": "Triangle",
+      "how_to_access": "Press K or use add tools",
+      "what_it_does": "Create triangle",
+      "related_tools_or_options": [],
+      "keyboard_shortcut": "K",
+      "notes": "",
+      "source_url": "https://docs.spline.design/basics/keyboard-shortcuts"
+    },
+    {
+      "mode": "3D Edit",
+      "location": "Tool dock",
+      "element_name": "Polygon",
+      "how_to_access": "Press J or use add tools",
+      "what_it_does": "Create polygon",
+      "related_tools_or_options": [],
+      "keyboard_shortcut": "J",
+      "notes": "",
+      "source_url": "https://docs.spline.design/basics/keyboard-shortcuts"
+    },
+    {
+      "mode": "3D Edit",
+      "location": "Tool dock",
+      "element_name": "Pen",
+      "how_to_access": "Select Pen on toolbar",
+      "what_it_does": "Draw vector points and Bezier curves",
+      "related_tools_or_options": [
+        "Straight point",
+        "curve",
+        "extrusion",
+        "rounded corners",
+        "bevel"
+      ],
+      "keyboard_shortcut": null,
+      "notes": "Double-press to edit vector; Esc exits",
+      "source_url": "https://docs.spline.design/designing-in-3-d/objects/pen-tool"
+    },
+    {
+      "mode": "3D Edit",
+      "location": "Tool dock",
+      "element_name": "Path",
+      "how_to_access": "Click + > Path",
+      "what_it_does": "Draw editable 3D path",
+      "related_tools_or_options": [
+        "Edit Path",
+        "Size",
+        "Corner",
+        "Subdivision",
+        "path profile"
+      ],
+      "keyboard_shortcut": null,
+      "notes": "Point snap to surface when red plane shows",
+      "source_url": "https://docs.spline.design/designing-in-3-d/objects/3d-paths"
+    },
+    {
+      "mode": "3D Edit",
+      "location": "Viewport",
+      "element_name": "Orbit",
+      "how_to_access": "Alt + drag or Alt + trackpad tap-drag",
+      "what_it_does": "Orbit working camera",
+      "related_tools_or_options": [],
+      "keyboard_shortcut": "Alt + drag (Win)",
+      "notes": "Camera movement, not necessarily scene camera object",
+      "source_url": "https://docs.spline.design/basics/creating-your-first-scene"
+    },
+    {
+      "mode": "3D Edit",
+      "location": "Viewport",
+      "element_name": "Pan",
+      "how_to_access": "Space + drag",
+      "what_it_does": "Pan viewport",
+      "related_tools_or_options": [],
+      "keyboard_shortcut": "Space + drag",
+      "notes": "",
+      "source_url": "https://docs.spline.design/basics/creating-your-first-scene"
+    },
+    {
+      "mode": "3D Edit",
+      "location": "Viewport",
+      "element_name": "Zoom",
+      "how_to_access": "Ctrl + wheel / trackpad pinch",
+      "what_it_does": "Zoom viewport",
+      "related_tools_or_options": [],
+      "keyboard_shortcut": "Ctrl + wheel (Win)",
+      "notes": "",
+      "source_url": "https://docs.spline.design/basics/creating-your-first-scene"
+    },
+    {
+      "mode": "3D Edit",
+      "location": "Right panel",
+      "element_name": "Scene Properties",
+      "how_to_access": "Click empty viewport",
+      "what_it_does": "Change scene-wide appearance and rendering",
+      "related_tools_or_options": [
+        "Background",
+        "lights",
+        "simulation",
+        "effects",
+        "fog",
+        "sky",
+        "ambient shadows",
+        "color"
+      ],
+      "keyboard_shortcut": null,
+      "notes": "",
+      "source_url": "https://docs.spline.design/basics/understanding-splines-ui"
+    },
+    {
+      "mode": "3D Edit",
+      "location": "Right panel",
+      "element_name": "Object Properties",
+      "how_to_access": "Select object in viewport/outliner",
+      "what_it_does": "Inspect and modify selected object",
+      "related_tools_or_options": [
+        "Transform",
+        "Shape",
+        "Material",
+        "modifiers",
+        "shadows",
+        "states",
+        "events"
+      ],
+      "keyboard_shortcut": null,
+      "notes": "Panels depend on selected object type",
+      "source_url": "https://docs.spline.design/basics/understanding-splines-ui"
+    },
+    {
+      "mode": "3D Edit",
+      "location": "Right panel > Shape",
+      "element_name": "Smooth & Edit",
+      "how_to_access": "Select object > Shape > Smooth & Edit",
+      "what_it_does": "Convert primitive geometry to editable subdivision mesh",
+      "related_tools_or_options": [
+        "Extrude",
+        "Inset",
+        "Edge Loop",
+        "Loop Cut",
+        "Slide",
+        "Fill Hole"
+      ],
+      "keyboard_shortcut": null,
+      "notes": "Converting changes editing workflow",
+      "source_url": "https://docs.spline.design/designing-in-3-d/modeling/3d-modeling-tools"
+    },
+    {
+      "mode": "3D Edit",
+      "location": "Modeling settings",
+      "element_name": "Extrude & Inset Mode",
+      "how_to_access": "Edit mesh > modeling settings > Extrude & Inset Mode",
+      "what_it_does": "Grouped vs individual face operation",
+      "related_tools_or_options": [],
+      "keyboard_shortcut": null,
+      "notes": "",
+      "source_url": "https://docs.spline.design/designing-in-3-d/modeling/3d-modeling-tools"
+    },
+    {
+      "mode": "3D Edit",
+      "location": "Modeling settings",
+      "element_name": "Extrude Direction",
+      "how_to_access": "Edit mesh > modeling settings > Extrude Direction",
+      "what_it_does": "Controls extrusion direction",
+      "related_tools_or_options": [],
+      "keyboard_shortcut": null,
+      "notes": "",
+      "source_url": "https://docs.spline.design/designing-in-3-d/modeling/3d-modeling-tools"
+    },
+    {
+      "mode": "3D Edit",
+      "location": "Modeling settings",
+      "element_name": "Selection Side",
+      "how_to_access": "Edit mesh > modeling settings > Selection Side",
+      "what_it_does": "Front vs both sides",
+      "related_tools_or_options": [],
+      "keyboard_shortcut": null,
+      "notes": "",
+      "source_url": "https://docs.spline.design/designing-in-3-d/modeling/3d-modeling-tools"
+    },
+    {
+      "mode": "3D Edit",
+      "location": "Modeling settings",
+      "element_name": "Selection Mode",
+      "how_to_access": "Edit mesh > modeling settings > Selection Mode",
+      "what_it_does": "Mesh selection and paint radius",
+      "related_tools_or_options": [],
+      "keyboard_shortcut": null,
+      "notes": "",
+      "source_url": "https://docs.spline.design/designing-in-3-d/modeling/3d-modeling-tools"
+    },
+    {
+      "mode": "3D Edit",
+      "location": "Modeling settings",
+      "element_name": "Hole Filling",
+      "how_to_access": "Edit mesh > modeling settings > Hole Filling",
+      "what_it_does": "Flat, Curved or Ngon",
+      "related_tools_or_options": [],
+      "keyboard_shortcut": null,
+      "notes": "",
+      "source_url": "https://docs.spline.design/designing-in-3-d/modeling/3d-modeling-tools"
+    },
+    {
+      "mode": "3D Edit",
+      "location": "Right panel > Modifiers",
+      "element_name": "Cloner",
+      "how_to_access": "Select object > Modifiers > + > Cloner",
+      "what_it_does": "Procedurally repeat an object",
+      "related_tools_or_options": [
+        "Radial",
+        "Linear",
+        "Grid",
+        "Object",
+        "Randomness"
+      ],
+      "keyboard_shortcut": null,
+      "notes": "",
+      "source_url": "https://docs.spline.design/designing-in-3-d/animation/cloner-motion"
+    },
+    {
+      "mode": "3D Edit",
+      "location": "Right panel > Modifiers",
+      "element_name": "Align to Path",
+      "how_to_access": "Select follower > Modifiers > + > Align to Path",
+      "what_it_does": "Align and animate object along a 3D path",
+      "related_tools_or_options": [
+        "Object",
+        "Orientation",
+        "Offset",
+        "Slide"
+      ],
+      "keyboard_shortcut": null,
+      "notes": "Align a wrapper group if child needs independent rotation",
+      "source_url": "https://docs.spline.design/designing-in-3-d/objects/3d-paths"
+    },
+    {
+      "mode": "3D Edit",
+      "location": "Timeline panel",
+      "element_name": "Timeline toggle",
+      "how_to_access": "3D Edit > toolbar > timeline toggle",
+      "what_it_does": "Open timeline at bottom",
+      "related_tools_or_options": [
+        "Animate",
+        "clip tracks",
+        "keyframes",
+        "Graph Editor"
+      ],
+      "keyboard_shortcut": null,
+      "notes": "",
+      "source_url": "https://docs.spline.design/designing-in-3-d/animation/timeline-animation"
+    },
+    {
+      "mode": "3D Edit",
+      "location": "Timeline panel",
+      "element_name": "Animate",
+      "how_to_access": "Select object > timeline > Animate",
+      "what_it_does": "Choose property track for keyframe animation",
+      "related_tools_or_options": [
+        "Position",
+        "Rotation",
+        "Scale",
+        "Size",
+        "Material",
+        "opacity",
+        "Cloner",
+        "paths"
+      ],
+      "keyboard_shortcut": null,
+      "notes": "",
+      "source_url": "https://docs.spline.design/designing-in-3-d/animation/timeline-animation"
+    },
+    {
+      "mode": "3D Edit",
+      "location": "Timeline panel",
+      "element_name": "Graph Editor",
+      "how_to_access": "Open timeline > Graph Editor",
+      "what_it_does": "Edit timing/easing curves",
+      "related_tools_or_options": [],
+      "keyboard_shortcut": null,
+      "notes": "",
+      "source_url": "https://docs.spline.design/designing-in-3-d/animation/timeline-animation"
+    },
+    {
+      "mode": "3D Edit",
+      "location": "Viewport upper controls",
+      "element_name": "Performance",
+      "how_to_access": "Editor > performance/Export panel",
+      "what_it_does": "Inspect size and optimization opportunities",
+      "related_tools_or_options": [
+        "Polygons",
+        "materials",
+        "clones",
+        "lights",
+        "compression"
+      ],
+      "keyboard_shortcut": null,
+      "notes": "",
+      "source_url": "https://docs.spline.design/exporting-your-scene/how-to-optimize-your-scene"
+    },
+    {
+      "mode": "3D Edit",
+      "location": "Viewport upper controls",
+      "element_name": "Share",
+      "how_to_access": "Top-right > Share",
+      "what_it_does": "Invite collaborators and share scene",
+      "related_tools_or_options": [],
+      "keyboard_shortcut": null,
+      "notes": "",
+      "source_url": "https://docs.spline.design/basics/understanding-splines-ui"
+    },
+    {
+      "mode": "3D Edit",
+      "location": "Viewport upper controls",
+      "element_name": "Export",
+      "how_to_access": "Top-right > Export",
+      "what_it_does": "Choose output types and Play Settings",
+      "related_tools_or_options": [
+        "Public URL",
+        "Viewer",
+        "Code",
+        "images",
+        "video",
+        "3D files"
+      ],
+      "keyboard_shortcut": null,
+      "notes": "",
+      "source_url": "https://docs.spline.design/exporting-your-scene/play-settings"
+    },
+    {
+      "mode": "3D Code",
+      "location": "Code editor",
+      "element_name": "Console",
+      "how_to_access": "Code tab > Console strip",
+      "what_it_does": "Inspect console logs and JS errors",
+      "related_tools_or_options": [],
+      "keyboard_shortcut": null,
+      "notes": "",
+      "source_url": "https://docs.spline.design/interaction-states-events-and-actions/code-tab"
+    },
+    {
+      "mode": "3D Code",
+      "location": "Code editor",
+      "element_name": "Injected spline API",
+      "how_to_access": "Code > script > global spline object",
+      "what_it_does": "Read/update objects, variables, events, runtime entities",
+      "related_tools_or_options": [
+        "Runtime clone",
+        "geometry",
+        "custom materials"
+      ],
+      "keyboard_shortcut": null,
+      "notes": "Changes in runtime are transient; object authored events only execute in Preview",
+      "source_url": "https://docs.spline.design/interaction-states-events-and-actions/code-tab"
+    },
+    {
+      "mode": "3D Edit",
+      "location": "Agent sidebar",
+      "element_name": "Agent prompt",
+      "how_to_access": "Agent tab > prompt box",
+      "what_it_does": "Edit objects and scenes with AI",
+      "related_tools_or_options": [
+        "/3d",
+        "/image",
+        "attachments",
+        "model",
+        "effort",
+        "chat history",
+        "queue"
+      ],
+      "keyboard_shortcut": null,
+      "notes": "Normal scene edits undoable",
+      "source_url": "https://docs.spline.design/spline-ai/ai-agent"
+    },
+    {
+      "mode": "3D Edit",
+      "location": "Agent sidebar",
+      "element_name": "Slash commands",
+      "how_to_access": "Agent prompt > type /",
+      "what_it_does": "Generate image or 3D model with explicit command",
+      "related_tools_or_options": [
+        "/image",
+        "/3d"
+      ],
+      "keyboard_shortcut": null,
+      "notes": "",
+      "source_url": "https://docs.spline.design/spline-ai/ai-agent"
+    },
+    {
+      "mode": "3D Edit",
+      "location": "Agent sidebar",
+      "element_name": "Queue",
+      "how_to_access": "Submit prompt while agent running",
+      "what_it_does": "Queue prompts without stopping active job",
+      "related_tools_or_options": [
+        "Pause",
+        "Clear",
+        "remove queued prompt",
+        "Stop"
+      ],
+      "keyboard_shortcut": null,
+      "notes": "Stop clears running job and queued prompts",
+      "source_url": "https://docs.spline.design/spline-ai/ai-agent"
+    },
+    {
+      "mode": "Hana",
+      "location": "Dashboard",
+      "element_name": "Hana – 2D Design",
+      "how_to_access": "Home or My Files > + Create > Hana – 2D Design",
+      "what_it_does": "Create a Hana file",
+      "related_tools_or_options": [],
+      "keyboard_shortcut": null,
+      "notes": "",
+      "source_url": "https://docs.spline.design/hana-a-canvas-for-interactivity/basics/designing-in-hana"
+    },
+    {
+      "mode": "Hana",
+      "location": "Left sidebar tabs",
+      "element_name": "Agent",
+      "how_to_access": "Hana > left sidebar > Agent",
+      "what_it_does": "AI-generated frames, styles, effects, interactivity",
+      "related_tools_or_options": [
+        "Model",
+        "effort",
+        "attach image/video/glTF",
+        "chat history"
+      ],
+      "keyboard_shortcut": null,
+      "notes": "Agent output remains editable",
+      "source_url": "https://docs.spline.design/hana-a-canvas-for-interactivity/ai-in-hana"
+    },
+    {
+      "mode": "Hana",
+      "location": "Left sidebar tabs",
+      "element_name": "Layers",
+      "how_to_access": "Hana > left sidebar > Layers",
+      "what_it_does": "Browse and nest current page layer tree",
+      "related_tools_or_options": [],
+      "keyboard_shortcut": null,
+      "notes": "",
+      "source_url": "https://docs.spline.design/basics/understanding-splines-ui"
+    },
+    {
+      "mode": "Hana",
+      "location": "Left sidebar > Pages",
+      "element_name": "Pages",
+      "how_to_access": "Hana > left > Pages",
+      "what_it_does": "Manage per-file canvases",
+      "related_tools_or_options": [
+        "+ New",
+        "Rename",
+        "Duplicate",
+        "Delete",
+        "Reorder"
+      ],
+      "keyboard_shortcut": null,
+      "notes": "",
+      "source_url": "https://docs.spline.design/hana-a-canvas-for-interactivity/basics/pages-in-hana"
+    },
+    {
+      "mode": "Hana",
+      "location": "Left toolbar",
+      "element_name": "Selection",
+      "how_to_access": "Hana canvas > left toolbar > selection",
+      "what_it_does": "Select objects",
+      "related_tools_or_options": [],
+      "keyboard_shortcut": null,
+      "notes": "",
+      "source_url": "https://docs.spline.design/basics/understanding-splines-ui"
+    },
+    {
+      "mode": "Hana",
+      "location": "Left toolbar",
+      "element_name": "Frame",
+      "how_to_access": "Left toolbar > Frame",
+      "what_it_does": "Create exportable screen/artboard",
+      "related_tools_or_options": [
+        "Frame",
+        "Section"
+      ],
+      "keyboard_shortcut": null,
+      "notes": "",
+      "source_url": "https://docs.spline.design/hana-a-canvas-for-interactivity/basics/sections-in-hana"
+    },
+    {
+      "mode": "Hana",
+      "location": "Left toolbar",
+      "element_name": "Section",
+      "how_to_access": "Left toolbar > Frame dropdown > Section",
+      "what_it_does": "Group multiple frames and content without clipping",
+      "related_tools_or_options": [],
+      "keyboard_shortcut": "S (Hana)",
+      "notes": "Not a presentable frame; contents move with it; deletions delete contents",
+      "source_url": "https://docs.spline.design/hana-a-canvas-for-interactivity/basics/sections-in-hana"
+    },
+    {
+      "mode": "Hana",
+      "location": "Left toolbar",
+      "element_name": "Shape: Rectangle",
+      "how_to_access": "Left toolbar > Shapes > Rectangle",
+      "what_it_does": "Draw a rectangle for UI/graphics",
+      "related_tools_or_options": [],
+      "keyboard_shortcut": null,
+      "notes": "",
+      "source_url": "https://docs.spline.design/hana-a-canvas-for-interactivity/basics/designing-in-hana"
+    },
+    {
+      "mode": "Hana",
+      "location": "Left toolbar",
+      "element_name": "Shape: Ellipse",
+      "how_to_access": "Left toolbar > Shapes > Ellipse",
+      "what_it_does": "Draw a ellipse for UI/graphics",
+      "related_tools_or_options": [],
+      "keyboard_shortcut": null,
+      "notes": "",
+      "source_url": "https://docs.spline.design/hana-a-canvas-for-interactivity/basics/designing-in-hana"
+    },
+    {
+      "mode": "Hana",
+      "location": "Left toolbar",
+      "element_name": "Shape: Star",
+      "how_to_access": "Left toolbar > Shapes > Star",
+      "what_it_does": "Draw a star for UI/graphics",
+      "related_tools_or_options": [],
+      "keyboard_shortcut": null,
+      "notes": "",
+      "source_url": "https://docs.spline.design/hana-a-canvas-for-interactivity/basics/designing-in-hana"
+    },
+    {
+      "mode": "Hana",
+      "location": "Left toolbar",
+      "element_name": "Shape: Polygon",
+      "how_to_access": "Left toolbar > Shapes > Polygon",
+      "what_it_does": "Draw a polygon for UI/graphics",
+      "related_tools_or_options": [],
+      "keyboard_shortcut": null,
+      "notes": "",
+      "source_url": "https://docs.spline.design/hana-a-canvas-for-interactivity/basics/designing-in-hana"
+    },
+    {
+      "mode": "Hana",
+      "location": "Left toolbar",
+      "element_name": "3D Shapes",
+      "how_to_access": "Left toolbar > 3D shapes",
+      "what_it_does": "Place 3D-shaped elements on 2D canvas",
+      "related_tools_or_options": [],
+      "keyboard_shortcut": null,
+      "notes": "",
+      "source_url": "https://docs.spline.design/hana-a-canvas-for-interactivity/interactivity/3d-shapes-in-hana"
+    },
+    {
+      "mode": "Hana",
+      "location": "Left toolbar",
+      "element_name": "Text",
+      "how_to_access": "Left toolbar > Text",
+      "what_it_does": "Draw editable text; type and format via Text panel",
+      "related_tools_or_options": [],
+      "keyboard_shortcut": null,
+      "notes": "",
+      "source_url": "https://docs.spline.design/hana-a-canvas-for-interactivity/basics/designing-in-hana"
+    },
+    {
+      "mode": "Hana",
+      "location": "Left toolbar",
+      "element_name": "Vector Tool",
+      "how_to_access": "Left toolbar > vector tools",
+      "what_it_does": "Draw vector points and connected vector networks",
+      "related_tools_or_options": [],
+      "keyboard_shortcut": null,
+      "notes": "",
+      "source_url": "https://docs.spline.design/hana-a-canvas-for-interactivity/basics/designing-in-hana"
+    },
+    {
+      "mode": "Hana",
+      "location": "Left toolbar",
+      "element_name": "Pencil Tool",
+      "how_to_access": "Left toolbar > pencil/vector tools",
+      "what_it_does": "Freehand sketch then edit vector points",
+      "related_tools_or_options": [],
+      "keyboard_shortcut": null,
+      "notes": "",
+      "source_url": "https://docs.spline.design/hana-a-canvas-for-interactivity/basics/designing-in-hana"
+    },
+    {
+      "mode": "Hana",
+      "location": "Left toolbar",
+      "element_name": "Comments",
+      "how_to_access": "Left toolbar > Comments",
+      "what_it_does": "Place design feedback",
+      "related_tools_or_options": [],
+      "keyboard_shortcut": null,
+      "notes": "",
+      "source_url": "https://docs.spline.design/basics/understanding-splines-ui"
+    },
+    {
+      "mode": "Hana",
+      "location": "Left toolbar bottom",
+      "element_name": "Play",
+      "how_to_access": "Hana > left toolbar > Play",
+      "what_it_does": "Run interactive frame",
+      "related_tools_or_options": [],
+      "keyboard_shortcut": null,
+      "notes": "",
+      "source_url": "https://docs.spline.design/basics/understanding-splines-ui"
+    },
+    {
+      "mode": "Hana",
+      "location": "Right properties panel",
+      "element_name": "Transform",
+      "how_to_access": "Hana > select relevant object > right inspector > Transform",
+      "what_it_does": "Position, rotation, size and optional 3D transform",
+      "related_tools_or_options": [
+        "Position",
+        "Rotation",
+        "Width",
+        "Height",
+        "3D Transform",
+        "Flatten 3D",
+        "Backface"
+      ],
+      "keyboard_shortcut": null,
+      "notes": "Only shown when applicable to selection",
+      "source_url": "https://docs.spline.design/hana-a-canvas-for-interactivity/basics/designing-in-hana"
+    },
+    {
+      "mode": "Hana",
+      "location": "Right properties panel",
+      "element_name": "Shape",
+      "how_to_access": "Hana > select relevant object > right inspector > Shape",
+      "what_it_does": "Geometry and corner attributes",
+      "related_tools_or_options": [
+        "Corner radius",
+        "geometry controls"
+      ],
+      "keyboard_shortcut": null,
+      "notes": "Only shown when applicable to selection",
+      "source_url": "https://docs.spline.design/hana-a-canvas-for-interactivity/basics/designing-in-hana"
+    },
+    {
+      "mode": "Hana",
+      "location": "Right properties panel",
+      "element_name": "Layout",
+      "how_to_access": "Hana > select relevant object > right inspector > Layout",
+      "what_it_does": "Responsive auto layout on frames",
+      "related_tools_or_options": [
+        "Direction",
+        "Wrap",
+        "Align",
+        "Gap",
+        "Padding",
+        "Fixed",
+        "Fill",
+        "Hug"
+      ],
+      "keyboard_shortcut": null,
+      "notes": "Only shown when applicable to selection",
+      "source_url": "https://docs.spline.design/hana-a-canvas-for-interactivity/basics/designing-in-hana"
+    },
+    {
+      "mode": "Hana",
+      "location": "Right properties panel",
+      "element_name": "Constraints",
+      "how_to_access": "Hana > select relevant object > right inspector > Constraints",
+      "what_it_does": "Pin/scale elements as parent frame resizes",
+      "related_tools_or_options": [
+        "Left",
+        "Right",
+        "Center",
+        "Scale",
+        "Top",
+        "Bottom"
+      ],
+      "keyboard_shortcut": null,
+      "notes": "Only shown when applicable to selection",
+      "source_url": "https://docs.spline.design/hana-a-canvas-for-interactivity/basics/designing-in-hana"
+    },
+    {
+      "mode": "Hana",
+      "location": "Right properties panel",
+      "element_name": "States",
+      "how_to_access": "Hana > select relevant object > right inspector > States",
+      "what_it_does": "Create alternate versions of a selected object",
+      "related_tools_or_options": [
+        "Base State",
+        "Hover",
+        "Open",
+        "Active"
+      ],
+      "keyboard_shortcut": null,
+      "notes": "Only shown when applicable to selection",
+      "source_url": "https://docs.spline.design/hana-a-canvas-for-interactivity/interactivity/interactivity-in-hana"
+    },
+    {
+      "mode": "Hana",
+      "location": "Right properties panel",
+      "element_name": "Events",
+      "how_to_access": "Hana > select relevant object > right inspector > Events",
+      "what_it_does": "Triggers and actions for transitions",
+      "related_tools_or_options": [
+        "Start",
+        "Mouse",
+        "Key",
+        "Look At",
+        "Follow",
+        "Transition"
+      ],
+      "keyboard_shortcut": null,
+      "notes": "Only shown when applicable to selection",
+      "source_url": "https://docs.spline.design/hana-a-canvas-for-interactivity/interactivity/interactivity-in-hana"
+    },
+    {
+      "mode": "Hana",
+      "location": "Right properties panel",
+      "element_name": "Fill",
+      "how_to_access": "Hana > select relevant object > right inspector > Fill",
+      "what_it_does": "Surface treatments",
+      "related_tools_or_options": [
+        "Color",
+        "Gradient",
+        "Image",
+        "Video",
+        "Frame"
+      ],
+      "keyboard_shortcut": null,
+      "notes": "Only shown when applicable to selection",
+      "source_url": "https://docs.spline.design/hana-a-canvas-for-interactivity/basics/designing-in-hana"
+    },
+    {
+      "mode": "Hana",
+      "location": "Right properties panel",
+      "element_name": "Stroke",
+      "how_to_access": "Hana > select relevant object > right inspector > Stroke",
+      "what_it_does": "Borders and outlines",
+      "related_tools_or_options": [
+        "Thickness",
+        "Color",
+        "Corner styles",
+        "Gradient"
+      ],
+      "keyboard_shortcut": null,
+      "notes": "Only shown when applicable to selection",
+      "source_url": "https://docs.spline.design/hana-a-canvas-for-interactivity/basics/designing-in-hana"
+    },
+    {
+      "mode": "Hana",
+      "location": "Right properties panel",
+      "element_name": "Effects",
+      "how_to_access": "Hana > select relevant object > right inspector > Effects",
+      "what_it_does": "Visual effects including glass, blur, shadows and noise",
+      "related_tools_or_options": [
+        "Drop Shadow",
+        "Inner Shadow",
+        "Background Blur",
+        "Layer Blur",
+        "Liquid Glass",
+        "Noise Glass"
+      ],
+      "keyboard_shortcut": null,
+      "notes": "Only shown when applicable to selection",
+      "source_url": "https://docs.spline.design/hana-a-canvas-for-interactivity/basics/designing-in-hana"
+    },
+    {
+      "mode": "Hana",
+      "location": "Right properties panel",
+      "element_name": "Export",
+      "how_to_access": "Hana > select relevant object > right inspector > Export",
+      "what_it_does": "Publish parent frame or export image/video",
+      "related_tools_or_options": [
+        "Public URL",
+        "iframe",
+        "hana-viewer",
+        "Video"
+      ],
+      "keyboard_shortcut": null,
+      "notes": "Only shown when applicable to selection",
+      "source_url": "https://docs.spline.design/hana-a-canvas-for-interactivity/assets-and-export/exporting-in-hana"
+    },
+    {
+      "mode": "Hana",
+      "location": "Object context menu",
+      "element_name": "Use as Mask",
+      "how_to_access": "Select mask and targets > right-click > Use as Mask",
+      "what_it_does": "Group objects with vector mask",
+      "related_tools_or_options": [
+        "Also mask button in layers tree"
+      ],
+      "keyboard_shortcut": null,
+      "notes": "",
+      "source_url": "https://docs.spline.design/hana-a-canvas-for-interactivity/basics/designing-in-hana"
+    },
+    {
+      "mode": "Hana",
+      "location": "Right panel > Modifiers",
+      "element_name": "Align to Path",
+      "how_to_access": "Select follower > Modifiers > Align to Path",
+      "what_it_does": "Make elements follow vector paths",
+      "related_tools_or_options": [],
+      "keyboard_shortcut": null,
+      "notes": "",
+      "source_url": "https://docs.spline.design/hana-a-canvas-for-interactivity/basics/designing-in-hana"
+    },
+    {
+      "mode": "Hana",
+      "location": "Right panel > Fill",
+      "element_name": "Frame as Fill",
+      "how_to_access": "Select shape > Fill > Frame > source frame",
+      "what_it_does": "Display a live frame as texture/content of another shape",
+      "related_tools_or_options": [
+        "Can combine with 3D Shape effect"
+      ],
+      "keyboard_shortcut": null,
+      "notes": "References remain live when source frame changes",
+      "source_url": "https://docs.spline.design/hana-a-canvas-for-interactivity/interactivity/frame-as-fill-3d-meshes"
+    },
+    {
+      "mode": "Hana",
+      "location": "Right panel > Effects",
+      "element_name": "Liquid Glass",
+      "how_to_access": "Select shape/text/frame > Effects > Liquid Glass",
+      "what_it_does": "Refractive glass with controllable distortion and perceived depth",
+      "related_tools_or_options": [
+        "Offset X/Y",
+        "Distortion",
+        "Depth",
+        "Blur",
+        "Aberration",
+        "Profile",
+        "Magnification"
+      ],
+      "keyboard_shortcut": null,
+      "notes": "",
+      "source_url": "https://docs.spline.design/hana-a-canvas-for-interactivity/interactivity/effects-in-hana"
+    },
+    {
+      "mode": "Hana",
+      "location": "Right panel > Effects",
+      "element_name": "Noise Glass",
+      "how_to_access": "Select object > Effects > Noise Glass",
+      "what_it_does": "Noise-based refractive distortion",
+      "related_tools_or_options": [
+        "Simplex",
+        "Fbm",
+        "Voronoi",
+        "Sine",
+        "Progressive",
+        "Amplitude",
+        "Movement"
+      ],
+      "keyboard_shortcut": null,
+      "notes": "",
+      "source_url": "https://docs.spline.design/hana-a-canvas-for-interactivity/interactivity/effects-in-hana"
+    },
+    {
+      "mode": "Hana",
+      "location": "Right panel > Export",
+      "element_name": "Export Embed",
+      "how_to_access": "Select parent frame > frame three-dot > Export Embed",
+      "what_it_does": "Generate public link or embed",
+      "related_tools_or_options": [
+        "Iframe Embed",
+        "Hana Embed"
+      ],
+      "keyboard_shortcut": null,
+      "notes": "Nested child frames cannot publish independently",
+      "source_url": "https://docs.spline.design/hana-a-canvas-for-interactivity/assets-and-export/exporting-in-hana"
+    },
+    {
+      "mode": "Hana",
+      "location": "Object context menu",
+      "element_name": "Remove Background",
+      "how_to_access": "Right-click an image > Remove Background",
+      "what_it_does": "AI removes image background",
+      "related_tools_or_options": [],
+      "keyboard_shortcut": null,
+      "notes": "",
+      "source_url": "https://docs.spline.design/hana-a-canvas-for-interactivity/ai-in-hana"
+    },
+    {
+      "mode": "Hana",
+      "location": "Object context menu",
+      "element_name": "Upscale Image",
+      "how_to_access": "Right-click an image > Upscale Image",
+      "what_it_does": "AI increases image resolution",
+      "related_tools_or_options": [],
+      "keyboard_shortcut": null,
+      "notes": "",
+      "source_url": "https://docs.spline.design/hana-a-canvas-for-interactivity/ai-in-hana"
+    }
+  ]
+}
