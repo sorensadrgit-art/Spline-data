@@ -1,0 +1,76 @@
+{
+  "inventory_metadata": {
+    "source_dir": "/app",
+    "generated_at": "2026-10-23T02:36:03.978510Z",
+    "total_files_scanned": 6,
+    "included_files_count": 5,
+    "unique_files_count": 4,
+    "duplicate_files_count": 1,
+    "excluded_files_count": 1
+  },
+  "inventory": [
+    {
+      "file_name": "Spline_Academy_Video_Catalog_2026-10-22.csv",
+      "relative_path": "Spline_Academy_Video_Catalog_2026-10-22.csv",
+      "absolute_path": "/app/Spline_Academy_Video_Catalog_2026-10-22.csv",
+      "size_bytes": 28475,
+      "sha256": "a7f63eebdc2eec5a2232cbfb427a3dec827a8c60c381c0ae773d4f34ba994ece",
+      "is_duplicate": false,
+      "canonical_path": "Spline_Academy_Video_Catalog_2026-10-22.csv",
+      "inventory_timestamp": "2026-10-23T02:36:03.974521Z"
+    },
+    {
+      "file_name": "Spline_Interface_Knowledge_Base_2026-10-22.md",
+      "relative_path": "Spline_Interface_Knowledge_Base_2026-10-22.md",
+      "absolute_path": "/app/Spline_Interface_Knowledge_Base_2026-10-22.md",
+      "size_bytes": 171690,
+      "sha256": "0e8ae49c05309afa6ffcd46817f9e0093543c9741cae38c3778ae41f66ae222a",
+      "is_duplicate": false,
+      "canonical_path": "Spline_Interface_Knowledge_Base_2026-10-22.md",
+      "inventory_timestamp": "2026-10-23T02:36:03.975438Z"
+    },
+    {
+      "file_name": "Spline_Interface_Knowledge_Base_2026-10-22 (1).md",
+      "relative_path": "Spline_Interface_Knowledge_Base_2026-10-22 (1).md",
+      "absolute_path": "/app/Spline_Interface_Knowledge_Base_2026-10-22 (1).md",
+      "size_bytes": 171690,
+      "sha256": "0e8ae49c05309afa6ffcd46817f9e0093543c9741cae38c3778ae41f66ae222a",
+      "is_duplicate": true,
+      "canonical_path": "Spline_Interface_Knowledge_Base_2026-10-22.md",
+      "inventory_timestamp": "2026-10-23T02:36:03.976123Z"
+    },
+    {
+      "file_name": "Spline_Knowledge_Base_Complete_2026-10-22.zip",
+      "relative_path": "Spline_Knowledge_Base_Complete_2026-10-22.zip",
+      "absolute_path": "/app/Spline_Knowledge_Base_Complete_2026-10-22.zip",
+      "size_bytes": 48634,
+      "sha256": "3abd521725c3fc06b3f4c1189a7ac9f577ceb423e14c5f92f9b85cd76ea4893b",
+      "is_duplicate": false,
+      "canonical_path": "Spline_Knowledge_Base_Complete_2026-10-22.zip",
+      "inventory_timestamp": "2026-10-23T02:36:03.976402Z"
+    },
+    {
+      "file_name": "Spline_UI_Elements_2026-10-22.json",
+      "relative_path": "Spline_UI_Elements_2026-10-22.json",
+      "absolute_path": "/app/Spline_UI_Elements_2026-10-22.json",
+      "size_bytes": 40642,
+      "sha256": "0eb12dfdcea0ae214996cd4defea5ca3c792c6e3da0832d86980a34bcddbf22c",
+      "is_duplicate": false,
+      "canonical_path": "Spline_UI_Elements_2026-10-22.json",
+      "inventory_timestamp": "2026-10-23T02:36:03.976595Z"
+    }
+  ],
+  "excluded": [
+    {
+      "file_path": "Finalize-SorenGatewayJwt.ps1",
+      "reason": "Excluded (secret, script, or system directory)"
+    }
+  ],
+  "extracted_archive_sources": {
+    "archive": "Spline_Knowledge_Base_Complete_2026-10-22.zip",
+    "extracted_file": "Spline_Source_Index_2026-10-22.json",
+    "output_path": "/app/soren-spline-kb/data/Spline_Source_Index_2026-10-22.json",
+    "sha256": "e9605f32fc92138ba7464d91792184497347056cda4648f5262967d8d71dff2e",
+    "size_bytes": 17011
+  }
+}
